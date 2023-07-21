@@ -38,7 +38,7 @@
 
   <build>
 <<<<<<< HEAD
-    <finalName>devops</finalName>
+    <finalName>devop</finalName>
 =======
     <finalName>devop</finalName>
 >>>>>>> 0f0269a (c1)
